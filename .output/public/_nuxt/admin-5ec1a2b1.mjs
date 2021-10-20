@@ -1,0 +1,1 @@
+import{_ as e,u as t,c as a,o as s,a as n}from"./entry-ffa19f37.mjs";const o={setup(){t({title:"admin"})}},c=n("h1",null,"admin",-1),r=[c];function _(d,i,f,l,p,u){return s(),a("div",null,r)}var h=e(o,[["render",_]]);export{h as default};
